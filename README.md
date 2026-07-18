@@ -61,30 +61,6 @@ Tools
 
 ---
 
-📂 Current Projects
-
-🛒 E-commerce Website
-
-- PHP
-- MySQL
-- Bootstrap
-- WhatsApp Checkout
-
-📱 Android Development
-
-- Java
-- Android Studio
-
----
-
- 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khalijones&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khalijones&layout=compact&theme=tokyonight)
-
----
-
 📫 Connect With Me
 
 - LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/michel-mutisya-803b72270/?isSelfProfile=true)
